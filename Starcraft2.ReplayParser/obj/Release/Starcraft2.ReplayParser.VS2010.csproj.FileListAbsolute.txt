@@ -1,0 +1,6 @@
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\bin\Release - 2010\Starcraft2.ReplayParser.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\bin\Release - 2010\Starcraft2.ReplayParser.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\bin\Release - 2010\MpqLib.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\obj\Release\ResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\obj\Release\Starcraft2.ReplayParser.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\obj\Release\Starcraft2.ReplayParser.pdb

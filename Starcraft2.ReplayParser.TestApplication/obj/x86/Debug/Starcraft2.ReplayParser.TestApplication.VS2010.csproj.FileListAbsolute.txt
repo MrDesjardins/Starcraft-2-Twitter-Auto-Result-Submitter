@@ -1,0 +1,67 @@
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.1.1.3.SC2Replay
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.1.2.SC2Replay
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.1.3.4.SC2Replay
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.korean.1.3.4.SC2Replay
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.TestApplication.exe.config
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.TestApplication.exe
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.TestApplication.pdb
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.dll
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\MpqLib.dll
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.pdb
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\Starcraft2.ReplayParser.TestApplication.exe
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\Starcraft2.ReplayParser.TestApplication.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.TestApplication.exe.config
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\Starcraft2.ReplayParser.TestApplication.exe
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\Starcraft2.ReplayParser.TestApplication.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.1.1.3.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.1.2.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.1.3.4.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\testReplay.korean.1.3.4.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.TestApplication.exe
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.TestApplication.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Newtonsoft.Json.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Twitterizer2.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\MpqLib.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Starcraft2.ReplayParser.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Newtonsoft.Json.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Newtonsoft.Json.xml
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Twitterizer2.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug - 2010\Twitterizer2.xml
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.TestApplication.exe.config
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.1.1.3.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.1.2.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.1.3.4.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.korean.1.3.4.SC2Replay
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.TestApplication.exe
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.TestApplication.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Twitterizer2.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\MpqLib.dll
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Twitterizer2.pdb
+C:\Users\patrickd\Documents\Visual Studio 2010\Projects\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Twitterizer2.xml
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.TestApplication.exe.config
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\Starcraft2.ReplayParser.TestApplication.exe
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\Starcraft2.ReplayParser.TestApplication.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.1.1.3.SC2Replay
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.1.2.SC2Replay
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.1.3.4.SC2Replay
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\testReplay.korean.1.3.4.SC2Replay
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.TestApplication.exe
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.TestApplication.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Twitterizer2.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\MpqLib.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Starcraft2.ReplayParser.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Twitterizer2.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser.TestApplication\bin\Debug\Twitterizer2.xml

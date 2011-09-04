@@ -1,0 +1,12 @@
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser\bin\Debug - 2010\Starcraft2.ReplayParser.dll
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser\bin\Debug - 2010\Starcraft2.ReplayParser.pdb
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser\bin\Debug - 2010\MpqLib.dll
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser\obj\Debug\Starcraft2.ReplayParser.dll
+C:\Users\patrickd\Downloads\ascendedguard-sc2replay-csharp-f1091ff\ascendedguard-sc2replay-csharp-f1091ff\Starcraft2.ReplayParser\obj\Debug\Starcraft2.ReplayParser.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\bin\Debug - 2010\Starcraft2.ReplayParser.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\bin\Debug - 2010\Starcraft2.ReplayParser.pdb
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\bin\Debug - 2010\MpqLib.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\obj\Debug\Starcraft2.ReplayParser.dll
+C:\Users\patrick\Documents\Visual Studio 2010\Projects\Sc2Twitter\Sc2Twitter\Starcraft2.ReplayParser\obj\Debug\Starcraft2.ReplayParser.pdb

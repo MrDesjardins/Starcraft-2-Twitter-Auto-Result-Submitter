@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AAF78D53-A1DA-424A-B1AA-09895EAB3B2B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Starcraft2.ReplayParser</RootNamespace>
+    <AssemblyName>Starcraft2.ReplayParser</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug - 2010\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release - 2010\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MpqLib">
+      <HintPath>.NET 4.0\MpqLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KeyLongValueStruct.cs" />
+    <Compile Include="Difficulty.cs" />
+    <Compile Include="GameSpeed.cs" />
+    <Compile Include="GameType.cs" />
+    <Compile Include="KeyValueStruct.cs" />
+    <Compile Include="MpqHeader.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Race.cs" />
+    <Compile Include="replay.details\PlayerDetails.cs" />
+    <Compile Include="PlayerType.cs" />
+    <Compile Include="replay.attributes.events\ReplayAttribute.cs" />
+    <Compile Include="Replay.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="replay.attributes.events\ReplayAttributeEvents.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="replay.details\ReplayDetails.cs" />
+    <Compile Include="replay.game.events\GameEventBase.cs" />
+    <Compile Include="replay.game.events\GameEventType.cs" />
+    <Compile Include="replay.game.events\HotkeyEvent.cs" />
+    <Compile Include="replay.game.events\IGameEvent.cs" />
+    <Compile Include="replay.game.events\PlayerLeftEvent.cs" />
+    <Compile Include="replay.game.events\ReplayGameEvents.cs" />
+    <Compile Include="replay.initData\ReplayInitData.cs" />
+    <Compile Include="replay.messages.events\ChatMessage.cs" />
+    <Compile Include="replay.messages.events\ChatMessageTarget.cs" />
+    <Compile Include="replay.messages.events\ReplayMessageEvents.cs" />
+    <Compile Include="Timestamp.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
