@@ -1,0 +1,18 @@
+*******************************************************************************
+How to use
+*******************************************************************************
+Open the app.config and enter you game name.
+
+Run the console application. It will go check in the app.config. The firs time
+your Twitter key will not be there and will launch a webpage requesting you
+to accept the Application to Write into your wall.
+
+Once accepted, it will write your key to communicate into the app.config.
+
+Every game played will create a replay file. The console application detect
+the replay file and analyse it with the Starcraft2.ReplayParser. You can find
+more detail about the Starcraft2.ReplayParser library here : 
+https://github.com/ascendedguard/sc2replay-csharp
+
+So that's it. Quit simple and this has been coded very fast. Just to test how
+to play with Twitter API.
